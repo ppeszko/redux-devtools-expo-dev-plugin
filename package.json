@@ -43,7 +43,7 @@
     "typescript": "^5.5.3"
   },
   "peerDependencies": {
-    "expo": ">=52",
+    "expo": ">=51",
     "redux": "*"
   }
 }
